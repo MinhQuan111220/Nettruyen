@@ -201,10 +201,7 @@
     .container .sub-container__ratings {
         align-items: flex-start;
     }
-    .container .sub-container__ratings-name,
-    .container .sub-container__ratings-content{
-        margin-left: -10px;
-    }
+    
 }
 @media(min-width: 450px) and (max-width: 740px){
     .container .nomianations__item-story-img {
